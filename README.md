@@ -1,16 +1,25 @@
-## Hi there 👋
+# Olá! Eu sou a Renata Baptistelli ✨
 
-<!--
-**Renata-Baptistelli/Renata-Baptistelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou Técnica em Multimédia e atualmente estou em formação no curso CET de Programação, onde aprofundo meus conhecimentos em programação orientada a objetos, 
+modelagem, estruturas de dados, bases de dados e desenvolvimento web moderno.
 
-Here are some ideas to get you started:
+A minha trajectória combina **arte, estratégia e tecnologia**. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Já atuei com design, redes sociais e criação de conteúdos digitais autênticos para empreendedores e marcas.
+
+Acredito que unir o design à programação é a chave para criar soluções que não só funcionam bem, 
+mas que também proporcionam clareza, conforto e uma experiência leve para quem usa.
+
+Linguagens e Ferramentas:
+
+Conhecimento em HTML, CSS, JavaScript, PHP, SQL, UML, XML, React C, C++ e Java. 
+
+Experiência com ambientes e IDEs como VS Code, Visual Studio, NetBeans, Dev C++, XAMPP, MySQL Workbench, Sqlite online (MariaDB), PlantUML, Xpath Generator, 
+Expo, Postman, FileZilla e Figma.
+
+Mantenho o foco em aprender, evoluir e desenvolver interfaces que comuniquem com **beleza e funcionalidade**.
+
+✨ Aqui partilho um pouco do meu universo digital feito de **código, cor e dedicação real**.
+
+
+
