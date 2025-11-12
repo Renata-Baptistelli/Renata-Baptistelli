@@ -1,22 +1,20 @@
 [🇧🇷 Português](README.md) | [🇬🇧 English](README.en.md)
 
-# Olá! Eu sou a Renata Baptistelli ✨
+# Olá! Eu sou a Renata Baptistelli ✨  
+**Desenvolvedora Front-End**
 
-Sou Técnica em Multimédia e atualmente estou em formação no curso CET - Técnica Especialista em Programação pelo IEFP, onde aprofundo meus conhecimentos em programação orientada a objetos, modelagem, estruturas de dados, bases de dados e desenvolvimento web moderno.
+Sou uma profissional com formação em Multimédia e atualmente a frequentar o curso CET – Técnica Especialista em Programação no IEFP, onde aprofundo os meus conhecimentos em programação orientada a objetos, estruturas de dados, bases de dados e desenvolvimento web moderno.
 
-Minha trajetória combina arte, estratégia e tecnologia. Já atuei com design, redes sociais e criação de conteúdos digitais autênticos para empreendedores e marcas.
+O meu percurso une **arte, lógica e tecnologia** — desde o design e a comunicação digital até à criação de projetos web funcionais e bem estruturados.
 
-Também tenho experiência como webdesigner em projetos de grande porte nas áreas de e-commerce e turismo internacional — vivência que fortaleceu meu olhar para o design funcional, a usabilidade e a comunicação visual estratégica.
+Atualmente estou a desenvolver competências em **React, Next.js, Node.js, REST APIs e MySQL**, aprendendo a criar aplicações organizadas, funcionais e focadas na boa experiência de quem as utiliza.  
 
-Acredito que unir design e programação é a chave para criar soluções que não só funcionam bem, mas também proporcionam clareza, conforto e uma experiência leve para quem usa.
+**Linguagens e Ferramentas:** HTML, CSS, JavaScript, React, Next.js, Node.js, PHP, SQL, C, C++, Java, UML, XML  
+**Experiência com:** VS Code, Visual Studio, NetBeans, XAMPP, MySQL Workbench, SQLite, PlantUML, Expo, Postman, FileZilla e Figma  
 
-Linguagens e Ferramentas:
-HTML, CSS, JavaScript, PHP, SQL, React, C, C++, Java, UML, XML.
-Experiência com: VS Code, Visual Studio, NetBeans, Dev C++, XAMPP, MySQL Workbench, Sqlite (MariaDB), PlantUML, XPath Generator, Expo, Postman, FileZilla e Figma.
+Gosto de aprender continuamente e de evoluir na criação de interfaces que comuniquem com simplicidade, funcionalidade e verdade.  
 
-Mantenho o foco em aprender, evoluir e desenvolver interfaces que comuniquem com beleza e funcionalidade.
-
-✨ Aqui partilho um pouco do meu universo digital — feito de código, cor e dedicação real.
+✨ Aqui partilho um pouco do meu universo digital — feito de código, design e dedicação real.
 
 
 
