@@ -1,3 +1,5 @@
+[🇧🇷 Português](README.md) | [🇬🇧 English](README.en.md)
+
 # Olá! Eu sou a Renata Baptistelli ✨
 
 Sou Técnica em Multimédia e atualmente estou em formação no curso CET - Técnica Especialista em Programação pelo IEFP, onde aprofundo meus conhecimentos em programação orientada a objetos, modelagem, estruturas de dados, bases de dados e desenvolvimento web moderno.
