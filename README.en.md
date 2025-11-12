@@ -1,16 +1,17 @@
-# Hello! I'm Renata Baptistelli ✨
+[🇧🇷 Português](README.md) | [🇬🇧 English](README.en.md)
 
-I'm a Multimedia Technician and currently enrolled in the CET — Technical Specialist in Programming at IEFP, where I'm deepening my knowledge in object-oriented programming, modeling, data structures, databases, and modern web development.
+# Hello! I'm Renata Baptistelli ✨  
+**Front-End Developer in training**
 
-My journey blends art, strategy, and technology. I’ve worked with design, social media, and authentic digital content creation for entrepreneurs and brands.
+I'm a professional with a background in Multimedia and currently studying in the CET – Technical Specialist in Programming course at IEFP, where I’m deepening my knowledge in object-oriented programming, data structures, databases, and modern web development.
 
-I also have experience as a web designer on large-scale projects in e-commerce and international tourism — a background that strengthened my perspective on functional design, usability, and strategic visual communication.
+My path brings together **art, logic, and technology** — from design and digital communication to building functional and well-structured web projects.
 
-I believe that combining design and programming is the key to creating solutions that not only work well but also bring clarity, comfort, and a smooth experience for users.
+I’m currently developing skills in **React, Next.js, Node.js, REST APIs, and MySQL**, learning to create organized and efficient applications focused on delivering a good experience for users.  
 
-**Languages & Tools:** HTML, CSS, JavaScript, PHP, SQL, React, C, C++, Java, UML, XML.  
-**Experience with:** VS Code, Visual Studio, NetBeans, Dev C++, XAMPP, MySQL Workbench, SQLite (MariaDB), PlantUML, XPath Generator, Expo, Postman, FileZilla, and Figma.
+**Languages & Tools:** HTML, CSS, JavaScript, React, Next.js, Node.js, PHP, SQL, C, C++, Java, UML, XML  
+**Experience with:** VS Code, Visual Studio, NetBeans, XAMPP, MySQL Workbench, SQLite, PlantUML, Expo, Postman, FileZilla, and Figma  
 
-I stay focused on learning, evolving, and developing interfaces that communicate with beauty and functionality.
+I enjoy learning continuously and improving in the creation of interfaces that communicate with simplicity, functionality, and truth.  
 
-✨ Here I share a bit of my digital universe — made of code, color, and real dedication.
+✨ Here I share a bit of my digital universe — made of code, design, and real dedication.
